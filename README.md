@@ -9,3 +9,6 @@ Curated list of awesome OpenMage extensions, resources and other highlights
 ## Install OpenMage
 - Method 1: unzip the release archive in the document root of your web server or by using composer
 - Method 2: `composer require "openmage/magento-lts":"^20"` (it will automatically download the latest v20 release)
+
+## Tools
+- [Magerun](https://files.magerun.net) Provides a huge set of well tested command line commands which save hours of work time. 
