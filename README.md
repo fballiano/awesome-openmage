@@ -11,4 +11,4 @@ Curated list of awesome OpenMage extensions, resources and other highlights
 - Method 2: `composer require "openmage/magento-lts":"^20"` (it will automatically download the latest v20 release)
 
 ## Tools
-- [Magerun](https://files.magerun.net) Provides a huge set of well tested command line commands which save hours of work time. 
+- [Magerun](https://files.magerun.net): provides a huge set of well tested command line commands which save hours of work time. 
