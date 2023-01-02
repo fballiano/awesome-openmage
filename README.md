@@ -20,6 +20,11 @@ Curated list of awesome OpenMage extensions, resources and other highlights.
 ### Frontend
 - [CustomGento_ProductBadges](https://github.com/customgento/CustomGento_ProductBadges): product badges and labels
 
+### Image processing
+- [Fballiano_ImageCleaner](https://github.com/fballiano/openmage-image-cleaner): orphaned image cleaner
+- [FireGento_PerfectWatermarks](https://github.com/colinmollenhour/Perfect_Watermarks): replaces GD2 adapter with imagemagick
+- [Yireo_Webp](https://github.com/yireo-magento1/Yireo_Webp): webp generation
+
 ### Payment methods
 - [Bitcoin](https://github.com/rvelhote/opennode-magento)
 - [Braintree](https://github.com/justinbeaty/module-gene-braintree)
@@ -28,10 +33,6 @@ Curated list of awesome OpenMage extensions, resources and other highlights.
 ### Utilities
 - [Aoe_Scheduler](https://github.com/AOEpeople/Aoe_Scheduler): better cron scheduling
 - [Aschroder_SMTPPro](https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension): SMTP support
-- [Fballiano_ImageCleaner](https://github.com/fballiano/openmage-image-cleaner): orphaned image cleaner
 - [FireGento_AdminMonitoring](https://github.com/firegento/firegento-adminmonitoring): log almost every activity in the backend
 - [FireGento_Logger](https://github.com/firegento/firegento-logger): advanced logging adapters
-- [FireGento_PerfectWatermarks](https://github.com/colinmollenhour/Perfect_Watermarks): replaces GD2 adapter with imagemagick
 - [Maven_Html5uploader](https://github.com/anhuy1989/html5upload): multiple images uploader using HTML5
-- [Yireo_Webp](https://github.com/yireo-magento1/Yireo_Webp): webp generation
-
