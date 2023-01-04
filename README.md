@@ -17,6 +17,9 @@ Curated list of awesome OpenMage extensions, resources and other highlights.
 
 ## Modules
 
+### Backend
+- [Flagbit_ChangeAttributeSet](https://github.com/flagbit/Magento-ChangeAttributeSet): change the attribute set of existing product
+
 ### Frontend
 - [CustomGento_ProductBadges](https://github.com/customgento/CustomGento_ProductBadges): product badges and labels
 
