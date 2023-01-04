@@ -17,6 +17,8 @@ Curated list of awesome OpenMage extensions, resources and other highlights.
 
 ## Modules
 
+This list is organized in alphabetical order.
+
 ### Backend
 - [Flagbit_ChangeAttributeSet](https://github.com/flagbit/Magento-ChangeAttributeSet): change the attribute set of existing product
 
