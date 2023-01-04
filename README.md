@@ -5,6 +5,7 @@ Curated list of awesome OpenMage extensions, resources and other highlights.
 - [OpenMage official GitHub repository](https://github.com/OpenMage/magento-lts)
 - [Download OpenMage official releases](https://github.com/OpenMage/magento-lts/releases)
 - Use OpenMage v20 to have the more cutting edge version of OpenMage
+- [Mirror of the legacy Magento 1 devdocs](https://devdocs-openmage.org/guides/m1x)
 
 ## Install OpenMage
 - Method 1: unzip the release archive in the document root of your web server
