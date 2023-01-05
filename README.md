@@ -5,11 +5,15 @@ Curated list of awesome OpenMage extensions, resources and other highlights.
 - [OpenMage official GitHub repository](https://github.com/OpenMage/magento-lts)
 - [Download OpenMage official releases](https://github.com/OpenMage/magento-lts/releases)
 - Use OpenMage v20 to have the more cutting edge version of OpenMage
-- [Mirror of the legacy Magento 1 devdocs](https://devdocs-openmage.org/guides/m1x)
 
 ## Install OpenMage
 - Method 1: unzip the release archive in the document root of your web server
 - Method 2: `composer require "openmage/magento-lts":"^20"` (it will automatically download the latest v20 release), it will ask for the OpenMage root directory, my suggestion is to use `.` (the current directory)
+
+## Documentation
+- [Mirror of the legacy Magento 1 devdocs](https://devdocs-openmage.org/guides/m1x)
+- [Magento Extension Developer’s Guide](https://info2.magento.com/rs/magentosoftware/images/magento-extension-developers-guide-v1.0.pdf)
+- [PacktPub ebooks about Magento](https://subscription.packtpub.com/search?query=magento)
 
 ## Tools
 - [Magerun](https://files.magerun.net): provides a huge set of well tested command line commands which save hours of work time. 
