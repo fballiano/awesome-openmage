@@ -17,7 +17,7 @@ it will automatically download the latest v20 release then ask for the OpenMage 
 ## Documentation
 - [Mirror of the legacy Magento 1 devdocs](https://devdocs-openmage.org/guides/m1x)
 - [Magento Extension Developer’s Guide](https://info2.magento.com/rs/magentosoftware/images/magento-extension-developers-guide-v1.0.pdf)
-- [Alan Storm blog](https://alanstorm.com/category/magento) one of the most influential and complete blog about Magento development
+- [Alan Storm blog](https://alanstorm.com/category/magento): one of the most influential and complete blog about Magento development
 - [PacktPub ebooks about Magento](https://subscription.packtpub.com/search?query=magento)
 
 ## Tools
