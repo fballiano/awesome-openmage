@@ -36,12 +36,12 @@ This list is organized in alphabetical order.
 
 ### Image processing
 - [Fballiano_ImageCleaner](https://github.com/fballiano/openmage-image-cleaner): orphaned image cleaner
-- [FireGento_PerfectWatermarks](https://github.com/colinmollenhour/Perfect_Watermarks): replaces GD2 adapter with imagemagick
+- [FireGento_PerfectWatermarks](https://github.com/colinmollenhour/Perfect_Watermarks): replaces GD2 adapter with imagemagick (fork maintained by [colinmollenhour](https://github.com/colinmollenhour))
 - [Yireo_Webp](https://github.com/yireo-magento1/Yireo_Webp): webp generation
 
 ### Payment methods
 - [Bitcoin](https://github.com/rvelhote/opennode-magento)
-- [Braintree](https://github.com/justinbeaty/module-gene-braintree)
+- [Braintree](https://github.com/justinbeaty/module-gene-braintree) (fork maintained by [justinbeaty](https://github.com/justinbeaty))
 - [HiPay](https://github.com/hipay/hipay-fullservice-sdk-magento1)
 
 ### Utilities
