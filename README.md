@@ -16,7 +16,7 @@ Curated list of awesome OpenMage extensions, resources and other highlights.
 - [PacktPub ebooks about Magento](https://subscription.packtpub.com/search?query=magento)
 
 ## Tools
-- [Magerun](https://files.magerun.net): provides a huge set of well tested command line commands which save hours of work time. 
+- [Magerun](https://files.magerun.net): provides a huge set of well tested command line commands which save hours of work time.
 - [PHPStorm](https://www.jetbrains.com/phpstorm): the best IDE for OpenMage
 - [Magicento](https://magicento.com): a plugin for PHPStorm than enables great features targeted to OpenMage development
 
