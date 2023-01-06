@@ -27,6 +27,10 @@ This list is organized in alphabetical order.
 ### Backend
 - [Flagbit_ChangeAttributeSet](https://github.com/flagbit/Magento-ChangeAttributeSet): change the attribute set of existing product
 
+### Cache
+- [Lesti_Fpc](https://github.com/fballiano/openmage-lesti-fpc): PHP based full page cache (fork maintained by https://github.com/fballiano)
+- [Nexcessnet_Turpentine](https://github.com/luigifab/openmage-turpentine-varnish): Varnish based full page cache (fork maintained by https://github.com/luigifab)
+
 ### Frontend
 - [CustomGento_ProductBadges](https://github.com/customgento/CustomGento_ProductBadges): product badges and labels
 
