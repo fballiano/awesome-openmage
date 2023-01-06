@@ -7,8 +7,12 @@ Curated list of awesome OpenMage extensions, resources and other highlights.
 - Use OpenMage v20 to have the more cutting edge version of OpenMage
 
 ## Install OpenMage
-- Method 1: unzip the release archive in the document root of your web server
-- Method 2: `composer require "openmage/magento-lts":"^20"` (it will automatically download the latest v20 release), it will ask for the OpenMage root directory, my suggestion is to use `.` (the current directory)
+
+1. Configure your web server (virtual host or subfolder of a domain)
+2. Create the folder where you want to install OpenMage, enter it and execute  
+`composer require "openmage/magento-lts":"^20"`  
+it will automatically download the latest v20 release then ask for the OpenMage root directory, my suggestion is to use `.` (the current directory)
+3. open your web browser and navigate to the URL you configured in point 1, the web installer will take care of the rest
 
 ## Documentation
 - [Mirror of the legacy Magento 1 devdocs](https://devdocs-openmage.org/guides/m1x)
