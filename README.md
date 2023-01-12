@@ -15,11 +15,24 @@ it will automatically download the latest v20 release then ask for the OpenMage 
 3. open your web browser and navigate to the URL you configured in point 1, the web installer will take care of the rest
 
 ## Documentation
+
+### To read
 - [Mirror of the legacy Magento 1 devdocs](https://devdocs-openmage.org/guides/m1x)
 - [Magento Extension Developer’s Guide](https://info2.magento.com/rs/magentosoftware/images/magento-extension-developers-guide-v1.0.pdf)
 - [Magento tutorial for beginners by MageStore](https://www.magestore.com/blog/magento-tutorial-for-beginners)
 - [Alan Storm blog](https://alanstorm.com/category/magento): one of the most influential and complete blog about Magento development
 - [PacktPub ebooks about Magento](https://subscription.packtpub.com/search?query=magento)
+
+### To watch
+- [Magento Community Tutorials Playlist](https://www.youtube.com/watch?v=ktlGc6UWB9A&list=PL3B0BAAF482B16EAB)
+- [Theming Magento Community Playlist](https://www.youtube.com/watch?v=gsY51-QmxkU&list=PLLnpHn493BHHWhog4Xk36L1nyxUu16r9E)
+- [Magento Training](https://www.youtube.com/playlist?list=PLcNSzkcgNPqSPyccfo8TIGZsUYtz81YpY)
+- [Magento Training Course](https://www.youtube.com/playlist?list=PLa6k8rC4o6VXqTvFkBVm5iEwwm3gTqg74)
+- [Magento Training Course](https://www.youtube.com/@magentoeducationworld8388/playlists)
+- [Magento Training Course](https://www.youtube.com/watch?v=XAjxN5bbl0E&list=PLCi45QTgjDEvbHQm7u8mDzhrVgAphGpcP)
+- [Magento Fundamentals](https://www.youtube.com/playlist?list=PLa6k8rC4o6VWrk4sUVGjySuBoGUVa7J3t)
+- [Magento Theme Creation](https://www.youtube.com/@magentogodz2892/videos)
+- [Template Monster Magento Tutorials](https://www.youtube.com/watch?v=kuvyFMYIiuM&list=PLhQIfRNfwAocfWc4zD0OPccvOuiO58-D6)
 
 ## Tools
 - [Magerun](https://files.magerun.net): provides a huge set of well tested command line commands which save hours of work time.
