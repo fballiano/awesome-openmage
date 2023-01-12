@@ -33,6 +33,8 @@ it will automatically download the latest v20 release then ask for the OpenMage 
 - [Magento Fundamentals by Artur Gevorkyan](https://www.youtube.com/playlist?list=PLa6k8rC4o6VWrk4sUVGjySuBoGUVa7J3t)
 - [Magento Theme Creation by Magento Godz](https://www.youtube.com/@magentogodz2892/videos)
 - [Magento Tutorials by Template Monster](https://www.youtube.com/watch?v=kuvyFMYIiuM&list=PLhQIfRNfwAocfWc4zD0OPccvOuiO58-D6)
+- [Mastering Magento by Shiva Modi](https://www.youtube.com/@ShivaModi/videos)
+- [Magento 1.9 by Let's CMS](https://www.youtube.com/playlist?list=PLoTpPBZH6r134pilpxQJOor5L9cpkqrm3)
 
 ## Tools
 - [Magerun](https://files.magerun.net): provides a huge set of well tested command line commands which save hours of work time.
