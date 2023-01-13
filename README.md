@@ -35,7 +35,7 @@ it will automatically download the latest v20 release then ask for the OpenMage 
 - [Magento Tutorials by Template Monster](https://www.youtube.com/watch?v=kuvyFMYIiuM&list=PLhQIfRNfwAocfWc4zD0OPccvOuiO58-D6)
 - [Mastering Magento by Shiva Modi](https://www.youtube.com/@ShivaModi/videos)
 - [Magento 1.9 by Let's CMS](https://www.youtube.com/playlist?list=PLoTpPBZH6r134pilpxQJOor5L9cpkqrm3)
-- Quick Start to Magento Customization (based on Magento 1.5) [part 1](https://www.youtube.com/watch?v=I0bxZ6h4w78) [part 2](https://www.youtube.com/watch?v=FGEa0TvdwLg) [part 3](https://www.youtube.com/watch?v=g0VHo7B0YjY)
+- Quick Start to Magento Customization (based on Magento 1.5) [part 1](https://www.youtube.com/watch?v=I0bxZ6h4w78) - [part 2](https://www.youtube.com/watch?v=FGEa0TvdwLg) - [part 3](https://www.youtube.com/watch?v=g0VHo7B0YjY)
 
 ## Tools
 - [Magerun](https://files.magerun.net): provides a huge set of well tested command line commands which save hours of work time.
