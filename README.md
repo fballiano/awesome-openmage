@@ -62,6 +62,7 @@ This list is organized in alphabetical order.
 - [Yireo_Webp](https://github.com/yireo-magento1/Yireo_Webp): webp generation
 
 ### Payment methods
+- [Amazon Pay](https://amazon-pay.readthedocs.io/en/latest)
 - [Bitcoin](https://github.com/rvelhote/opennode-magento)
 - [Braintree](https://github.com/justinbeaty/module-gene-braintree) (fork maintained by [justinbeaty](https://github.com/justinbeaty))
 - [HiPay](https://github.com/hipay/hipay-fullservice-sdk-magento1)
