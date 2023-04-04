@@ -66,6 +66,7 @@ This list is organized in alphabetical order.
 - [Bitcoin](https://github.com/rvelhote/opennode-magento)
 - [Braintree](https://github.com/justinbeaty/module-gene-braintree) (fork maintained by [justinbeaty](https://github.com/justinbeaty))
 - [HiPay](https://github.com/hipay/hipay-fullservice-sdk-magento1)
+- [PayPal Pay Later](https://github.com/empiricompany/openmage-paypal-pay-later-banner-info)
 
 ### Utilities
 - [Aoe_Scheduler](https://github.com/AOEpeople/Aoe_Scheduler): better cron scheduling
