@@ -55,6 +55,7 @@ This list is organized in alphabetical order.
 
 ### Frontend
 - [CustomGento_ProductBadges](https://github.com/customgento/CustomGento_ProductBadges): product badges and labels
+- [reCaptcha](https://github.com/empiricompany/reCaptcha)
 
 ### Image processing
 - [Fballiano_ImageCleaner](https://github.com/fballiano/openmage-image-cleaner): orphaned image cleaner
