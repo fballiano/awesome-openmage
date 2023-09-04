@@ -55,6 +55,7 @@ This list is organized in alphabetical order.
 
 ### Frontend
 - [CustomGento_ProductBadges](https://github.com/customgento/CustomGento_ProductBadges): product badges and labels
+- [Matomo](https://github.com/vianetz/matomo-magento1)
 - [reCaptcha](https://github.com/empiricompany/reCaptcha)
 
 ### Image processing
