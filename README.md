@@ -56,7 +56,7 @@ This list is organized in alphabetical order.
 ### Frontend
 - [CustomGento_ProductBadges](https://github.com/customgento/CustomGento_ProductBadges): product badges and labels
 - [Matomo](https://github.com/vianetz/matomo-magento1)
-- [reCaptcha](https://github.com/empiricompany/reCaptcha)
+- [reCaptcha](https://github.com/empiricompany/reCaptcha) (fork maintained by [empiricompany](https://github.com/empiricompany))
 
 ### Image processing
 - [Fballiano_ImageCleaner](https://github.com/fballiano/openmage-image-cleaner): orphaned image cleaner
@@ -75,4 +75,5 @@ This list is organized in alphabetical order.
 - [Aschroder_SMTPPro](https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension): SMTP support
 - [FireGento_AdminMonitoring](https://github.com/firegento/firegento-adminmonitoring): log almost every activity in the backend
 - [FireGento_Logger](https://github.com/firegento/firegento-logger): advanced logging adapters
+- [Magneto Debug](https://github.com/madalinoprea/magneto-debug): developer debug toolbar
 - [Maven_Html5uploader](https://github.com/anhuy1989/html5upload): multiple images uploader using HTML5
