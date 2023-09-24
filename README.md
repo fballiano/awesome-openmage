@@ -76,5 +76,4 @@ This list is organized in alphabetical order.
 - [FireGento_AdminMonitoring](https://github.com/firegento/firegento-adminmonitoring): log almost every activity in the backend
 - [FireGento_Logger](https://github.com/firegento/firegento-logger): advanced logging adapters
 - [Magneto Debug](https://github.com/madalinoprea/magneto-debug): developer debug toolbar
-- [Flagtbit_ChangeAttributeSet](https://github.com/flagbit/Magento-ChangeAttributeSet): easly change attribute set for products
 - [Maven_Html5uploader](https://github.com/anhuy1989/html5upload): multiple images uploader using HTML5
