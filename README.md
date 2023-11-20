@@ -48,6 +48,7 @@ This list is organized in alphabetical order.
 
 ### Backend
 - [Flagbit_ChangeAttributeSet](https://github.com/flagbit/Magento-ChangeAttributeSet): change the attribute set of existing product
+- [Monaco Editor](https://github.com/empiricompany/openmage-mm_monacoeditor): advanced code editor from Microsoft used in VSCode
 
 ### Cache
 - [Lesti_Fpc](https://github.com/fballiano/openmage-lesti-fpc): PHP based full page cache (fork maintained by [fballiano](https://github.com/fballiano))
