@@ -42,6 +42,10 @@ it will automatically download the latest v20 release then ask for the OpenMage 
 - [PHPStorm](https://www.jetbrains.com/phpstorm): the best IDE for OpenMage
 - [Magicento](https://magicento.com): a plugin for PHPStorm than enables great features targeted to OpenMage development
 
+## Vendors that opensourced all their modules
+- [FishPig](https://fishpig.com/magento-1-extensions), also check [their github account](https://github.com/bentideswell?tab=repositories&q=magento1)
+- [Manadev](https://github.com/osmianski/manadev-magento)
+
 ## Modules
 
 This list is organized in alphabetical order.
