@@ -45,6 +45,7 @@ it will automatically download the latest v20 release then ask for the OpenMage 
 ## Vendors that opensourced all their modules
 - [FishPig](https://fishpig.com/magento-1-extensions), also check [their github account](https://github.com/bentideswell?tab=repositories&q=magento1)
 - [Manadev](https://github.com/osmianski/manadev-magento)
+- [Meanbee](https://github.com/orgs/meanbee/repositories?q=magento%5C-&type=all&language=php&sort=name)
 
 ## Modules
 
