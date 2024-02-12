@@ -82,4 +82,4 @@ This list is organized in alphabetical order.
 - [FireGento_AdminMonitoring](https://github.com/firegento/firegento-adminmonitoring): log almost every activity in the backend
 - [FireGento_Logger](https://github.com/firegento/firegento-logger): advanced logging adapters
 - [Magneto Debug](https://github.com/madalinoprea/magneto-debug): developer debug toolbar
-- [Maven_Html5uploader](https://github.com/anhuy1989/html5upload): multiple images uploader using HTML5
+- [Html5Upload](https://github.com/empiricompany/html5upload): multiple media file upload with drag&drop (fork maintained by [empiricompany](https://github.com/empiricompany))
