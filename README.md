@@ -54,7 +54,6 @@ This list is organized in alphabetical order.
 ### Backend
 - [Flagbit_ChangeAttributeSet](https://github.com/flagbit/Magento-ChangeAttributeSet): change the attribute set of existing product
 - [Monaco Editor](https://github.com/empiricompany/openmage-mm_monacoeditor): advanced code editor from Microsoft used in VSCode
-- [Html5Upload](https://github.com/empiricompany/html5upload): multiple media file upload with drag&drop (fork maintained by [empiricompany](https://github.com/empiricompany))
 
 ### Cache
 - [Lesti_Fpc](https://github.com/fballiano/openmage-lesti-fpc): PHP based full page cache (fork maintained by [fballiano](https://github.com/fballiano))
@@ -83,4 +82,4 @@ This list is organized in alphabetical order.
 - [FireGento_AdminMonitoring](https://github.com/firegento/firegento-adminmonitoring): log almost every activity in the backend
 - [FireGento_Logger](https://github.com/firegento/firegento-logger): advanced logging adapters
 - [Magneto Debug](https://github.com/madalinoprea/magneto-debug): developer debug toolbar
-- [Maven_Html5uploader](https://github.com/anhuy1989/html5upload): multiple images uploader using HTML5
+- [Html5Upload](https://github.com/empiricompany/html5upload): multiple media file upload with drag&drop (fork maintained by [empiricompany](https://github.com/empiricompany))
