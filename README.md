@@ -61,6 +61,7 @@ This list is organized in alphabetical order.
 
 ### Frontend
 - [CustomGento_ProductBadges](https://github.com/customgento/CustomGento_ProductBadges): product badges and labels
+- [HoneySpam](https://github.com/magento-hackathon/HoneySpam)
 - [Matomo](https://github.com/vianetz/matomo-magento1)
 - [reCaptcha](https://github.com/empiricompany/reCaptcha) (fork maintained by [empiricompany](https://github.com/empiricompany))
 
