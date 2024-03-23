@@ -59,11 +59,14 @@ This list is organized in alphabetical order.
 - [Lesti_Fpc](https://github.com/fballiano/openmage-lesti-fpc): PHP based full page cache (fork maintained by [fballiano](https://github.com/fballiano))
 - [Nexcessnet_Turpentine](https://github.com/luigifab/openmage-turpentine-varnish): Varnish based full page cache (fork maintained by [luigifab](https://github.com/luigifab))
 
+### Captcha/Spam prevention
+- [Cloudflare Turnstile](https://github.com/fballiano/openmage-cloudflare-turnstile)
+- [HoneySpam](https://github.com/magento-hackathon/HoneySpam)
+- [reCaptcha](https://github.com/empiricompany/reCaptcha) (fork maintained by [empiricompany](https://github.com/empiricompany))
+
 ### Frontend
 - [CustomGento_ProductBadges](https://github.com/customgento/CustomGento_ProductBadges): product badges and labels
-- [HoneySpam](https://github.com/magento-hackathon/HoneySpam)
 - [Matomo](https://github.com/vianetz/matomo-magento1)
-- [reCaptcha](https://github.com/empiricompany/reCaptcha) (fork maintained by [empiricompany](https://github.com/empiricompany))
 
 ### Image processing
 - [Fballiano_ImageCleaner](https://github.com/fballiano/openmage-image-cleaner): orphaned image cleaner
