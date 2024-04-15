@@ -65,7 +65,9 @@ This list is organized in alphabetical order.
 - [reCaptcha](https://github.com/empiricompany/reCaptcha) (fork maintained by [empiricompany](https://github.com/empiricompany))
 
 ### Frontend
+- [CSS/JS versioning based on last git commit hash](https://github.com/fballiano/openmage-cssjs-versioning)
 - [CustomGento_ProductBadges](https://github.com/customgento/CustomGento_ProductBadges): product badges and labels
+- [Defer Javascripts](https://github.com/fballiano/openmage-defer-javascripts)
 - [Matomo](https://github.com/vianetz/matomo-magento1)
 
 ### Image processing
