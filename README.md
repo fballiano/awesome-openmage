@@ -88,5 +88,6 @@ This list is organized in alphabetical order.
 - [FireGento_AdminMonitoring](https://github.com/firegento/firegento-adminmonitoring): log almost every activity in the backend
 - [FireGento_Logger](https://github.com/firegento/firegento-logger): advanced logging adapters
 - [Laravel Ignition](https://github.com/empiricompany/openmage_ignition): modern debugging solution, with support for AI problem solution
+- [Orphaned config entries](https://github.com/hirale/openmage-orphaned-config): retrieve all system configurations from system.xml, compare them with the entries in the core_config_data table and list all the orphaned configurations
 - [Magneto Debug](https://github.com/madalinoprea/magneto-debug): developer debug toolbar
 - [Html5Upload](https://github.com/empiricompany/html5upload): multiple media file upload with drag&drop (fork maintained by [empiricompany](https://github.com/empiricompany))
