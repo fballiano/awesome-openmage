@@ -87,5 +87,6 @@ This list is organized in alphabetical order.
 - [Aschroder_SMTPPro](https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension): SMTP support
 - [FireGento_AdminMonitoring](https://github.com/firegento/firegento-adminmonitoring): log almost every activity in the backend
 - [FireGento_Logger](https://github.com/firegento/firegento-logger): advanced logging adapters
+- [Laravel Ignition](https://github.com/empiricompany/openmage_ignition): modern debugging solution, with support for AI problem solution
 - [Magneto Debug](https://github.com/madalinoprea/magneto-debug): developer debug toolbar
 - [Html5Upload](https://github.com/empiricompany/html5upload): multiple media file upload with drag&drop (fork maintained by [empiricompany](https://github.com/empiricompany))
