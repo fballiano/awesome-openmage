@@ -56,6 +56,7 @@ This list is organized in alphabetical order.
 - [Monaco Editor](https://github.com/empiricompany/openmage-mm_monacoeditor): advanced code editor from Microsoft used in VSCode
 
 ### Cache
+- [Cm_Diehard](https://github.com/colinmollenhour/Cm_Diehard) Advanced PHP based full page cache by the creator of the Redis module for OpenMage
 - [Lesti_Fpc](https://github.com/fballiano/openmage-lesti-fpc): PHP based full page cache (fork maintained by [fballiano](https://github.com/fballiano))
 - [Nexcessnet_Turpentine](https://github.com/luigifab/openmage-turpentine-varnish): Varnish based full page cache (fork maintained by [luigifab](https://github.com/luigifab))
 
