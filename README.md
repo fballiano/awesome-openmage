@@ -76,6 +76,9 @@ This list is organized in alphabetical order.
 - [FireGento_PerfectWatermarks](https://github.com/colinmollenhour/Perfect_Watermarks): replaces GD2 adapter with imagemagick (fork maintained by [colinmollenhour](https://github.com/colinmollenhour))
 - [Yireo_Webp](https://github.com/yireo-magento1/Yireo_Webp): webp generation
 
+### Marketing
+- [Matomo](https://github.com/vianetz/matomo-magento1): Matomo analytics
+
 ### Payment methods
 - [Amazon Pay](https://amazon-pay.readthedocs.io/en/latest)
 - [Bitcoin](https://github.com/rvelhote/opennode-magento)
