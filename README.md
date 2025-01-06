@@ -1,19 +1,6 @@
 # Awesome OpenMage [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/fballiano/awesome-openmage/issues)
 Curated list of awesome OpenMage extensions, resources and other highlights.
 
-## Most important resources for new projects
-- [OpenMage official GitHub repository](https://github.com/OpenMage/magento-lts)
-- [Download OpenMage official releases](https://github.com/OpenMage/magento-lts/releases)
-- Use OpenMage v20 to have the more cutting edge version of OpenMage
-
-## Install OpenMage
-
-1. Configure your web server (virtual host or subfolder of a domain)
-2. Create the folder where you want to install OpenMage, enter it and execute  
-`composer require "openmage/magento-lts":"^20"`  
-it will automatically download the latest v20 release then ask for the OpenMage root directory, my suggestion is to use `.` (the current directory)
-3. open your web browser and navigate to the URL you configured in point 1, the web installer will take care of the rest
-
 ## Documentation
 
 ### To read
