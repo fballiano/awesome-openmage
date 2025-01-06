@@ -24,11 +24,6 @@ Curated list of awesome OpenMage extensions, resources and other highlights.
 - [Magento 1.9 by Let's CMS](https://www.youtube.com/playlist?list=PLoTpPBZH6r134pilpxQJOor5L9cpkqrm3)
 - Quick Start to Magento Customization (based on Magento 1.5) [part 1](https://www.youtube.com/watch?v=I0bxZ6h4w78) - [part 2](https://www.youtube.com/watch?v=FGEa0TvdwLg) - [part 3](https://www.youtube.com/watch?v=g0VHo7B0YjY)
 
-## Tools
-- [Magerun](https://files.magerun.net): provides a huge set of well tested command line commands which save hours of work time.
-- [PHPStorm](https://www.jetbrains.com/phpstorm): the best IDE for OpenMage
-- [Magicento](https://magicento.com): a plugin for PHPStorm than enables great features targeted to OpenMage development
-
 ## Vendors that opensourced all their modules
 - [FishPig](https://fishpig.com/magento-1-extensions), also check [their github account](https://github.com/bentideswell?tab=repositories&q=magento1)
 - [Manadev](https://github.com/osmianski/manadev-magento)
