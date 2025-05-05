@@ -51,15 +51,11 @@ This list is organized in alphabetical order.
 - [CSS/JS versioning based on last git commit hash](https://github.com/fballiano/openmage-cssjs-versioning)
 - [CustomGento_ProductBadges](https://github.com/customgento/CustomGento_ProductBadges): product badges and labels
 - [Defer Javascripts](https://github.com/fballiano/openmage-defer-javascripts)
-- [Matomo](https://github.com/vianetz/matomo-magento1)
 
 ### Image processing
 - [Fballiano_ImageCleaner](https://github.com/fballiano/openmage-image-cleaner): orphaned image cleaner
 - [FireGento_PerfectWatermarks](https://github.com/colinmollenhour/Perfect_Watermarks): replaces GD2 adapter with imagemagick (fork maintained by [colinmollenhour](https://github.com/colinmollenhour))
 - [Yireo_Webp](https://github.com/yireo-magento1/Yireo_Webp): webp generation
-
-### Marketing
-- [Matomo](https://github.com/vianetz/matomo-magento1): Matomo analytics
 
 ### Payment methods
 - [Amazon Pay](https://amazon-pay.readthedocs.io/en/latest)
