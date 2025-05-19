@@ -55,6 +55,7 @@ This list is organized in alphabetical order.
 ### Image processing
 - [Fballiano_ImageCleaner](https://github.com/fballiano/openmage-image-cleaner): orphaned image cleaner
 - [FireGento_PerfectWatermarks](https://github.com/colinmollenhour/Perfect_Watermarks): replaces GD2 adapter with imagemagick (fork maintained by [colinmollenhour](https://github.com/colinmollenhour))
+- [Kudja_Tinify](https://github.com/kudja/openmage-tinify): webp image optimizer
 - [Yireo_Webp](https://github.com/yireo-magento1/Yireo_Webp): webp generation
 
 ### Payment methods
