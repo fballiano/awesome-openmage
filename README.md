@@ -57,10 +57,15 @@ This list is organized in alphabetical order.
 - [FireGento_PerfectWatermarks](https://github.com/colinmollenhour/Perfect_Watermarks): replaces GD2 adapter with imagemagick (fork maintained by [colinmollenhour](https://github.com/colinmollenhour))
 - [Yireo_Webp](https://github.com/yireo-magento1/Yireo_Webp): webp generation
 
+### Marketing/Tracking
+- [Moosend](https://github.com/DegrizNet/m1_moosend): Moosend website tracking (page views, product views, add to cart, orders)
+- [OpenAI Ads](https://github.com/DegrizNet/m1_openai_ads): ChatGPT ads measurement pixel and server-side Conversions API
+
 ### Payment methods
 - [Amazon Pay](https://amazon-pay.readthedocs.io/en/latest)
 - [Bitcoin](https://github.com/rvelhote/opennode-magento)
 - [Braintree](https://github.com/justinbeaty/module-gene-braintree) (fork maintained by [justinbeaty](https://github.com/justinbeaty))
+- [Braintree with Web SDK 3.147 / 3D Secure 2](https://github.com/DegrizNet/module-gene-braintree): fork of the above with the Braintree Web SDK upgrade required for Cardinal 3DS (Feb 2027 deadline) and PHP 8 fixes, on Packagist as `degriz/openmage-braintree`
 - [HiPay](https://github.com/hipay/hipay-fullservice-sdk-magento1)
 - [Mollie](https://github.com/mollie/Magento)
 - [PayPal Pay Later](https://github.com/empiricompany/openmage-paypal-pay-later-banner-info)
